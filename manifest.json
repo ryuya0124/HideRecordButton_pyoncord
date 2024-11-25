@@ -1,15 +1,11 @@
 {
-   "name": "HideRecordButton",
-   "version": "1.0",
-   "description": "Hide Record Button",
-   "authors": [
-      {
-         "name": "ryuya",
-         "id": "394875012365748920"
-      }
-   ],
-   "main": "dist/HideRecordButton",
-  "vendetta": {
-    "icon": "LinkIcon"
-  }
+  "name": "HideRecordButton",
+  "version": "1.0",
+  "description": "Hide Record Button",
+  "author": {
+    "name": "ryuya",
+    "id": "394875012365748920"
+  },
+  "color": "#8b0000",
+  "main": "src/index.js"
 }

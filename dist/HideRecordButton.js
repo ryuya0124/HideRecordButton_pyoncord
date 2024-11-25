@@ -25,11 +25,11 @@ function T(o) {
 	return window.enmity.patcher.create(o)
 }
 var S = "HideRecordButton",
-	u = "1.0.0",
+	u = "1.0",
 	b = "Hide Record Button",
 	v = [{
-		name: "mafu",
-		id: "519760564755365888"
+		name: "ryuya",
+		id: "394875012365748920"
 	}],
 	F = "#8b0000",
 	C = {
@@ -148,7 +148,7 @@ var k = ({
 			source: P
 		}),
 		onPress: () => {
-			d.openURL("https://twitter.com/m4fn3")
+			d.openURL("https://x.com/_ryuya_0124")
 		}
 	}), t.createElement(i, {
 		label: "Visit my server for help",
@@ -176,7 +176,7 @@ var k = ({
 			source: D
 		}),
 		onPress: () => {
-			d.openURL("https://github.com/m4fn3/HideRecordButton")
+			d.openURL("https://github.com/ryuya0124/HideRecordButton_pyoncord")
 		}
 	})), t.createElement(s, {
 		style: n.footer

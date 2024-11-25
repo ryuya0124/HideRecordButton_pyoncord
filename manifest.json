@@ -1,11 +1,11 @@
 {
    "name": "HideRecordButton",
-   "version": "1.0.0",
+   "version": "1.0",
    "description": "Hide Record Button",
    "authors": [
       {
-         "name": "mafu",
-         "id": "519760564755365888"
+         "name": "ryuya",
+         "id": "394875012365748920"
       }
    ],
    "color": "#8b0000"

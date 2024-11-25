@@ -8,5 +8,8 @@
          "id": "394875012365748920"
       }
    ],
-   "color": "#8b0000"
+   "main": "dist/HideRecordButton",
+  "vendetta": {
+    "icon": "LinkIcon"
+  }
 }
